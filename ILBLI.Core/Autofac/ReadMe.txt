@@ -1,0 +1,2 @@
+﻿1.需要引用：Autofac |Autofac.Extensions.DependencyInjection |Autofac.Extras.DynamicProxy
+2.需要改写WebAPI--Startup--ConfigureServices方法： 将原来的void 改成 返回类型为IServiceProvider，并且再最后加上 return services.AddAutofacInit(); 

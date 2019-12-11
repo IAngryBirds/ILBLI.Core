@@ -72,12 +72,13 @@ namespace ILBLI_WebAPI
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            //启用Https
             app.UseHttpsRedirection();
+            //启用静态文件
             app.UseStaticFiles();
             //添加自己封装的swaggerUI
             app.UseSwaggerUIInit();
-              
+            
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

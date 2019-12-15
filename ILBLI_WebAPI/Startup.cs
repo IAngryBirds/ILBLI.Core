@@ -14,9 +14,14 @@ namespace ILBLI_WebAPI
     /// </summary>
     public class Startup
     {
-
+        /// <summary>
+        /// 配置信息
+        /// </summary>
         public IConfiguration Configuration { get; }
-
+        /// <summary>
+        /// 构造函数
+        /// </summary>
+        /// <param name="configuration"></param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

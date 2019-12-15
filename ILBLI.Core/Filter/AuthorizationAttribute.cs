@@ -5,7 +5,7 @@ using System;
 namespace ILBLI.Unity
 {
     /// <summary>
-    /// 第一层（Conntroller实例化之前）
+    /// 第一层（Conntroller实例化之前）[这个是MVC时代的验证体系在Core下有了全新的认证模式]
     /// </summary>
     public class AuthorizationAttribute : Attribute, IAuthorizationFilter
     {

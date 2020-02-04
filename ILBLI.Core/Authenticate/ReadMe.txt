@@ -1,0 +1,2 @@
+﻿1.需要引用： Microsoft.AspNetCore.Authentication.Abstractions
+2.创建自己权限处理的Handler类，继承 IAuthenticationHandler, IAuthenticationSignInHandler, IAuthenticationSignOutHandler三个接口并实现

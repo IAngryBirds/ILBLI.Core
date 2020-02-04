@@ -1,0 +1,10 @@
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp2.1\Log4net\log4net.config
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp2.1\ILBLI.Unity.deps.json
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp2.1\ILBLI.Unity.dll
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\bin\Debug\netcoreapp2.1\ILBLI.Unity.pdb
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp2.1\ILBLI.Unity.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp2.1\ILBLI.Unity.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp2.1\ILBLI.Unity.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp2.1\ILBLI.Unity.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp2.1\ILBLI.Unity.dll
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.Core\obj\Debug\netcoreapp2.1\ILBLI.Unity.pdb

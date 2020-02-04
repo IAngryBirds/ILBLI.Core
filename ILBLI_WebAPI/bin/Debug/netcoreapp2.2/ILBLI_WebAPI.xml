@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ILBLI_WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ILBLI_WebAPI.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            这个就是起到IIS的  请求监听---转发请求---相应请求 的功能
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ILBLI_WebAPI.Startup">
+            <summary>
+            自定义配置启动服务与管道处理类
+            </summary>
+        </member>
+        <member name="M:ILBLI_WebAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            注入服务【这个IServiceCollection是core框架内置的IOC容器，它内置了一些服务功能，比如swagger,log4...我们后面将把它替换成自己的IOC容器】
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:ILBLI_WebAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            自定义请求管道内容
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

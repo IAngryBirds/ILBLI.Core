@@ -1,0 +1,13 @@
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp2.2\Log4net\log4net.config
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp2.2\ILBLI.IRepository.deps.json
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp2.2\ILBLI.IRepository.dll
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp2.2\ILBLI.IRepository.pdb
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp2.2\ILBLI.Unity.dll
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\bin\Debug\netcoreapp2.2\ILBLI.Unity.pdb
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.csproj.CoreCompileInputs.cache
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.csproj.CopyComplete
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.dll
+C:\张杰\GITHUB\ILBLI.Core\ILBLI.IRepository\obj\Debug\netcoreapp2.2\ILBLI.IRepository.pdb

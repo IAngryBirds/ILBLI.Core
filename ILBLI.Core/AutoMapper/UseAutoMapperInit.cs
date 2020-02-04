@@ -1,9 +1,12 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace ILBLI.Unity
+namespace ILBLI.Unity 
 {
-    public static class UseAutoMapperExtension
+    public static class UseAutoMapperInit
     {
 
         public static IServiceCollection AddAutoMapperInit(this IServiceCollection services)

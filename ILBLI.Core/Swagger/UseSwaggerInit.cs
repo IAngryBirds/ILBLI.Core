@@ -8,7 +8,7 @@ using System.Text;
 
 namespace ILBLI.Unity.Swagger
 {
-    public static class UseSwaggerExtension
+    public static class UseSwaggerInit
     {
 
         public static IApplicationBuilder UseSwaggerUIInit(this IApplicationBuilder app)

@@ -13,7 +13,7 @@ namespace ILBLI_WebAPI.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        private readonly ILogger<                                                        ValuesController> _Logger;
+        private readonly ILogger<ValuesController> _Logger;
         private readonly ITest _Test;
         private readonly IMapper _Mapper;
 
